@@ -1,0 +1,10 @@
+A simple roguelike written in 7 days for a 7 Day Roguelike event 
+sometime in 2009.
+
+The font used is Lato Regular by Lukasz Dziedzic, from
+http://openfontlibrary.org/en/font/lato-regular.  It is licenced under
+the OFL.
+
+The project requires SDL and SDL_ttf libraries.
+To compile the project:
+g++ *.cpp -lSDL -lSDL_ttf
